@@ -8,6 +8,8 @@ pip3 install platform
 
 python3 mafia.py
 # Enjoy Hacking!
+# Output:
+![deauth](https://github.com/user-attachments/assets/4ef9290b-5a8e-473c-93da-7d3a122c244b)
 # Probihited Use:
 This tool must not be used for any unauthorized or illegal activities. 
 Unauthorized access to networks without explicit permission is strictly illegal and punishable by law. 
