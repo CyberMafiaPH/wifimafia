@@ -1,8 +1,11 @@
 # WifiMafia tutorial
 # Usage
 pip3 install ctypes
+
 pip3 install time
+
 pip3 install platform
+
 python3 mafia.py
 # Enjoy Hacking!
 # Probihited Use:
