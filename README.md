@@ -6,7 +6,7 @@ pip3 install time
 
 pip3 install platform
 # In Linux and Termux(Android):
-sudo python3 mafia.py
+sudo python3 phmafia.py
 # In Windows:
 run the mafia.py as administrator
 # Enjoy Hacking!
