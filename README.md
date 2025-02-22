@@ -5,8 +5,10 @@ pip3 install ctypes
 pip3 install time
 
 pip3 install platform
-
-python3 mafia.py
+# In Linux and Termux(Android):
+sudo python3 mafia.py
+# In Windows:
+run the mafia.py as administrator
 # Enjoy Hacking!
 # Output:
 ![deauth](https://github.com/user-attachments/assets/4ef9290b-5a8e-473c-93da-7d3a122c244b)
